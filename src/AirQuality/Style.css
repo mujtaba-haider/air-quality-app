@@ -1,0 +1,14 @@
+.header {
+    margin-bottom: 100px !important;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin-top: 50px !important;
+}
