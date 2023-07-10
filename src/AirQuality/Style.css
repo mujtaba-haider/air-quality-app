@@ -1,5 +1,13 @@
-.header {
+.heading {
     margin-bottom: 100px !important;
+    color: white !important;
+}
+
+.card {
+    padding: 30px !important;
+    height: 218px !important;
+    background-color: rgba(255, 255, 255, 0.4) !important;
+    backdrop-filter: blur(10px);
 }
 
 .col {
@@ -11,4 +19,8 @@
 
 .btn {
     margin-top: 50px !important;
+}
+
+.nodata{
+    margin-top: 20px !important;
 }
